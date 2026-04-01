@@ -6,6 +6,11 @@ Using **Excel**, raw data was transformed into an **interactive dashboard** that
 
 ---
 
+## 🧩 Business Problem
+Lack of clear insights into customer behavior makes it difficult to target the right audience and optimize sales strategies.
+
+---
+
 ## 🎯 Business Objective
 This project aims to help businesses improve bike sales by analyzing customer demographics and behavior so that better marketing and sales strategies can be developed.
 
@@ -63,6 +68,13 @@ Pivot Tables were created to analyze key metrics:
 - Bike purchases decrease as commute distance increases beyond 5 miles
 - Male customers generally have higher average income, but purchase patterns are similar across genders
 - Customer segmentation (education, region, marital status) significantly affects buying behavior
+
+---
+
+## 💼 Business Impact
+- Enables targeted marketing strategies  
+- Improves customer segmentation  
+- Supports data-driven sales decisions  
 
 ---
 
