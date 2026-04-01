@@ -42,21 +42,13 @@ Pivot Tables were created to analyze key metrics:
 
 ![](images/bike_sales_dashboard.png)
 
-### Dashboard has the following features:
- 📊 Charts:
-  - Bar Chart (Income vs Purchase)
-  - Line Chart (Age vs Purchase)
-  - Line Chart (Commute Distance vs Purchase)
+---
 
- 🎛 Filters (Slicers):
-  - Marital Status
-  - Region
-  - Education
-
-🎨 Clean UI:
-  - Structured layout
-  - Professional formatting
-  - Easy-to-read visuals
+## 📊 Key Visuals
+- **Bar Chart (Income vs Purchase):** Higher income → more purchases  
+- **Line Chart (Age Brackets):** Middle-aged customers dominate sales  
+- **Line Chart (Commute Distance):** Shorter distance (0–5 miles) → higher purchases  
+- **Slicers (Marital Status, Region, Education)**  
 
 ---
 
