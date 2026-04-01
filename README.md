@@ -81,7 +81,7 @@ Pivot Tables were created to analyze key metrics:
 ```
 bike-sales-dashboard-excel/
 │
-├── data/
+├── dataset/
 │   ├── raw/
 │   │   └── bike_sales_raw.xlsx
 │   │
