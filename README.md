@@ -88,10 +88,10 @@ bike-sales-dashboard-excel/
 │   │   └── bike_sales_cleaned.xlsx
 │
 ├── images/
-│   └── dashboard_preview.png
+│   └── bike_sales_dashboard.png
 │
 ├── docs/
-│   └── project_notes.md   (optional – for steps/logic)
+│   └── data_catalog.md  
 │
 ├── README.md
 └── .gitignore
