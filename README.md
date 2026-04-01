@@ -93,7 +93,7 @@ Pivot Tables were created to analyze key metrics:
 ## 🛠 Tools Used
 
 - Microsoft Excel  
-- Pivot Tables  
+- Pivot Tables & Charts
 - Data Cleaning Techniques  
 - Slicers & Interactive Dashboard Design  
 
