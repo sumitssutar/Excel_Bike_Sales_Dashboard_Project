@@ -16,15 +16,35 @@ This project aims to help businesses improve bike sales by analyzing customer de
 
 ---
 
+## 📊 Dataset Columns
+
+The dataset contains the following features:
+
+- ID  
+- Marital Status  
+- Gender  
+- Income  
+- Children  
+- Education  
+- Occupation  
+- Home Owner  
+- Cars  
+- Commute Distance  
+- Region  
+- Age  
+- Purchased Bike  
+- Age Brackets *(Derived Column)*
+
+---
 ## 🧹 Data Cleaning
 The raw dataset was cleaned and prepared using Excel:
 
 - Removed duplicate records to ensure accuracy
 - Standardized categorical values (e.g., "M" → "Married", "S" → "Single")
 - Created **Age Brackets** using nested IF formulas:
-  - Adolescent
-  - Middle Age
-  - Old
+  - Adolescent (<30)  
+  - Middle Age (30–60)  
+  - Old (>60) 
 - Ensured consistent formatting for analysis
 
 ---
