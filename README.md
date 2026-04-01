@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing customer data to understand buying behavior and improve bike sales.  
-Using Excel, raw data was transformed into an interactive dashboard that provides actionable business insights.
+Using **Excel**, raw data was transformed into an **interactive dashboard** that provides **actionable business insights**.
 
 ---
 
@@ -33,23 +33,22 @@ Pivot Tables were created to analyze key metrics:
 
 ---
 
-## 📈 Dashboard Features
+## 📈 Dashboard Preview
 
-### 📸 Dashboard Preview:
-![](https://github.com/sumitssutar/Excel_Bike_Sales_Dashboard_Project/blob/main/docs/Bike%20Sales%20Dashboard%20Screenshot.png)
+![](images/bike_sales_dashboard.png)
 
-### An interactive Excel dashboard was built with:
+### Dashboard has the following features:
  📊 Charts:
   - Bar Chart (Income vs Purchase)
   - Line Chart (Age vs Purchase)
   - Line Chart (Commute Distance vs Purchase)
 
-- 🎛 Filters (Slicers):
+ 🎛 Filters (Slicers):
   - Marital Status
   - Region
   - Education
 
-- 🎨 Clean UI:
+🎨 Clean UI:
   - Structured layout
   - Professional formatting
   - Easy-to-read visuals
@@ -100,14 +99,6 @@ bike-sales-dashboard-excel/
 
 ---
 
-## 🔥 Key Learning
-
-- Data cleaning is critical before analysis  
-- Pivot tables are powerful for quick insights  
-- Visualization transforms data into business value
-  
----
-
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
@@ -118,5 +109,4 @@ Hi there! I'm **Kaustubh Sutar**. I’m a data enthusiast and aspiring data anal
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-sutar-814134340/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsutar321)
