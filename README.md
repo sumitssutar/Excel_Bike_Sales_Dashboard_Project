@@ -88,9 +88,6 @@ bike-sales-dashboard-excel/
 │   ├── processed/
 │   │   └── bike_sales_cleaned.xlsx
 │
-├── dashboard/
-│   └── bike_sales_dashboard.xlsx
-│
 ├── images/
 │   └── dashboard_preview.png
 │
