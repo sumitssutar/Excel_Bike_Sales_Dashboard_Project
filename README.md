@@ -105,7 +105,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Kaustubh Sutar**. I’m a data enthusiast and aspiring data analyst skilled in Power BI, Excel, SQL, and Python, exploring Machine Learning & AI to turn data into actionable insights.
+Hi there! I'm **Sumit Sutar**. An experienced Data Analyst who uncovers hidden trends, patterns and anomalies and leverages business intelligence to generate insights, improve operational efficiency and drive organizational growth.
+
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
