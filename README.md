@@ -111,11 +111,11 @@ bike-sales-dashboard-excel/
 │   ├── processed/
 │   │   └── bike_sales_cleaned.xlsx
 │
+├── docs/
+│   └── data_catalog.md
+│
 ├── images/
 │   └── bike_sales_dashboard.png
-│
-├── docs/
-│   └── data_catalog.md  
 │
 ├── README.md
 └── .gitignore
